@@ -35,18 +35,14 @@ Antes de começar, você precisa ter instalado na sua máquina:
 - [Maven]  
 - [PostgreSQL](ou outro banco configurado)
 
----
-
 ### 2. Clonar o repositório
 ```bash
-git clone https://github.com/SEU-USUARIO/delivery-tracer.git
+git clone https://github.com/odenzel08/api-delivery-tracer.git
 cd delivery-tracer
 
 ### 3. Criar um banco de dados
 Crie um banco no PostgreSQL, por exemplo:
 CREATE DATABASE delivery_tracer;
-
----
 
 ### 4. Rodar a aplicação
 mvn spring-boot:run
