@@ -42,8 +42,6 @@ Antes de começar, você precisa ter instalado na sua máquina:
 git clone https://github.com/SEU-USUARIO/delivery-tracer.git
 cd delivery-tracer
 
----
-
 ### 3. Criar um banco de dados
 Crie um banco no PostgreSQL, por exemplo:
 CREATE DATABASE delivery_tracer;
